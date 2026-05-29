@@ -10,9 +10,7 @@ AI/ML Engineer · Data Scientist · Generative AI · Computer Vision
 
 ## About Me
 
-I am an AI/ML Engineer with an M.Sc. in Cognitive Systems from Ulm University, currently working as a Data Science Intern at Liebherr Digital Center. My work focuses on building applied AI systems using Large Language Models, Computer Vision, and Multimodal AI for real-world industrial and enterprise applications.
-
-Previously, I worked as a Software Engineer at PwC, where I developed enterprise web applications and analytics solutions.
+I build intelligent systems that bridge AI research and real-world business applications. With a background in Cognitive Systems and Software Engineering, my experience spans LLMs, Agentic AI, Computer Vision, and Document Intelligence, with a focus on developing scalable AI solutions that automate complex workflows and create measurable impact in industrial and enterprise environments.
 
 My main interests include:
 
@@ -71,27 +69,26 @@ My main interests include:
 **Liebherr Digital Center — Ulm, Germany**  
 *July 2025 – Present*
 
-- Built a Retrieval-Augmented Generation (RAG) chatbot for engineering standards and QA documentation.
-- Developed a computer vision pipeline using YOLO, SAM, and OCR models to extract industrial gear specifications from engineering drawings.
-- Implemented a YOLOX-based pedestrian detection system for construction site safety.
-- Built LLM-based metadata extraction pipelines and evaluated OCR/document parsing methods for structured information extraction.
-
+- Engineered agentic LLM pipelines for efficient information retrieval across internal knowledge repositories utilizing LangChain, LangGraph, and Databricks. 
+- Innovatively developed document intelligence workflows using advanced computer vision tools such as YOLO and SAM to extract structured data from complex engineering drawings. 
+- Designed and implemented a vision-based safety monitoring system tailored for construction site scenarios, employing PyTorch for optimal performance. 
+- Contributed to continuous integration/continuous deployment (CI/CD) processes and agile development workflows through effective use of GitHub and Jira. 
 ---
 
 ### Associate (Software Engineer)  
 **PricewaterhouseCoopers (PwC) — Kolkata, India**  
 *July 2019 – August 2022*
 
-- Developed enterprise web applications translating business requirements into scalable UI solutions.
-- Built an internal employee portal with role-based access control.
-- Implemented analytics tracking and marketing automation workflows using Google Analytics and GTM.
-
+- Developed workflow management features to create, assign, track, and manage work requests across distributed delivery teams.
+- Built a financial reconciliation module, supporting automated matching, manual exception handling, secure access, and reporting. 
+- Developed a financial journal application capturing workflows for structured data entry, validation, approvals, and SAP IA integration.
 ---
 
 ## Research & Projects
 
-### Master's Thesis — Ulm University
-Benchmarked text-to-3D generation models using attribute-specific prompts and evaluation metrics to evaluate semantic alignment, 3D plausibility, and mesh quality.
+### Master's Thesis at Visual Computing Group, Ulm University
+- Engineered a comprehensive benchmarking framework to evaluate state-of-the-art text-to-3D generative models, enhancing the understanding of model effectiveness. 
+- Analyzed and identified performance trade-offs across various model architectures in aspects such as semantic alignment, output quality, and structural plausibility, contributing valuable insights to the field. 
 
 Repository:  
 https://github.com/Hiya2023/attribute-t23d-bench
@@ -102,7 +99,7 @@ Investigated the effectiveness of human feedback in identifying artifacts in AI-
 ### Explainable AI Project
 Analyzed the impact of image segmentation techniques on the runtime and quality of local explanation methods used to interpret CNN predictions.
 
-### Research Assistant — Ulm University
+### Research Assistant at Dept. of Applied Cognitive Psychology, Ulm University
 Analyzed material perception using visual and haptic cues of object properties.
 
 ---
@@ -111,11 +108,11 @@ Analyzed material perception using visual and haptic cues of object properties.
 
 **M.Sc. Cognitive Systems**  
 Ulm University, Germany  
-2022 – 2025
+Grade: 1.5 • 2022 – 2025
 
 **B.Tech Computer Science**  
 Institute of Engineering and Management, Kolkata, India  
-2015 – 2019
+Grade: 8.7/10 • 2015 – 2019
 
 ---
 
@@ -140,7 +137,7 @@ Painting • Badminton • Dancing • Cooking • Yoga
 
 ## Contact
 
-If you are interested in research discussions, or AI engineering job opportunities, feel free to reach out.
+Open to discussions on AI research and emerging AI technologies, and interested in AI Engineering job opportunities. Feel free to connect.
 
 📧 chandramita.bhattacharya@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/chandramita-bhattacharya
