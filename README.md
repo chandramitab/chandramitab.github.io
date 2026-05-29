@@ -66,22 +66,22 @@ My main interests include:
 ## Experience
 
 ### Data Science Intern  
-**Liebherr Digital Center — Ulm, Germany**  
+**Liebherr Digital Center, Ulm, Germany**  
 *July 2025 – Present*
 
 - Engineered agentic LLM pipelines for efficient information retrieval across internal knowledge repositories utilizing LangChain, LangGraph, and Databricks. 
 - Innovatively developed document intelligence workflows using advanced computer vision tools such as YOLO and SAM to extract structured data from complex engineering drawings. 
-- Designed and implemented a vision-based safety monitoring system tailored for construction site scenarios, employing PyTorch for optimal performance. 
+- Designed and implemented a vision-based safety monitoring system tailored for construction site scenarios, employing PyTorch for optimal performance.
 - Contributed to continuous integration/continuous deployment (CI/CD) processes and agile development workflows through effective use of GitHub and Jira. 
 
 ---
 
-### Associate (Software Engineer)  
-**PricewaterhouseCoopers (PwC) — Kolkata, India**  
+### Software Engineer 
+**PricewaterhouseCoopers (PwC), Kolkata, India**  
 *July 2019 – August 2022*
 
 - Developed workflow management features to create, assign, track, and manage work requests across distributed delivery teams.
-- Built a financial reconciliation module, supporting automated matching, manual exception handling, secure access, and reporting. 
+- Built a financial reconciliation module, supporting automated matching, manual exception handling, secure access, and reporting.
 - Developed a financial journal application capturing workflows for structured data entry, validation, approvals, and SAP IA integration.
 
 ---
