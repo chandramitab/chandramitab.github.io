@@ -73,6 +73,7 @@ My main interests include:
 - Innovatively developed document intelligence workflows using advanced computer vision tools such as YOLO and SAM to extract structured data from complex engineering drawings. 
 - Designed and implemented a vision-based safety monitoring system tailored for construction site scenarios, employing PyTorch for optimal performance. 
 - Contributed to continuous integration/continuous deployment (CI/CD) processes and agile development workflows through effective use of GitHub and Jira. 
+
 ---
 
 ### Associate (Software Engineer)  
@@ -82,6 +83,7 @@ My main interests include:
 - Developed workflow management features to create, assign, track, and manage work requests across distributed delivery teams.
 - Built a financial reconciliation module, supporting automated matching, manual exception handling, secure access, and reporting. 
 - Developed a financial journal application capturing workflows for structured data entry, validation, approvals, and SAP IA integration.
+
 ---
 
 ## Research & Projects
