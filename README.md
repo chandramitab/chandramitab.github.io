@@ -82,8 +82,7 @@ My main interests include:
 - Engineered a comprehensive benchmarking framework to evaluate state-of-the-art text-to-3D generative models, enhancing the understanding of model effectiveness. 
 - Analyzed and identified performance trade-offs across various model architectures in aspects such as semantic alignment, output quality, and structural plausibility, contributing valuable insights to the field. 
 
-Repository:  
-https://github.com/Hiya2023/attribute-t23d-bench
+[View GitHub Repository](https://github.com/chandramitab/attribute-t23d-bench)
 
 ### Generative AI Project
 Investigated the effectiveness of human feedback in identifying artifacts in AI-generated human portraits.
