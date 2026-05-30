@@ -4,3 +4,6 @@ plugins:
 
 title: Chandramita Bhattacharya
 description: AI/ML Engineer | Data Scientist
+
+logo: /assets/profile.jpg
+show_downloads: false
