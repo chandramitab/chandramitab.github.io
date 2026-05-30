@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.jpg" alt="Chandramita Bhattacharya" width="180" />
+<img src="assets/profile.png" alt="Chandramita Bhattacharya" width="180" />
 
 # Chandramita Bhattacharya
 
