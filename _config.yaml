@@ -2,8 +2,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Chandramita Bhattacharya
-description: AI/ML Engineer | Data Scientist
-
 logo: /assets/profile.png
 show_downloads: false
+
+title: Chandramita Bhattacharya
+description: AI/ML Engineer | Data Scientist
