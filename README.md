@@ -1,19 +1,3 @@
-<div align="center">
-
-<img src="assets/profile.png" alt="Chandramita Bhattacharya" width="180" />
-
-# Chandramita Bhattacharya
-
-**AI/ML Engineer · Data Scientist · Generative AI · Computer Vision**
-
-📍 Munich, Germany  
-📧 chandramita.bhattacharya@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/chandramita-bhattacharya)
-
-</div>
-
----
-
 ## About Me
 
 I build intelligent systems that bridge AI research and real-world business applications. With a background in Cognitive Systems and Software Engineering, my experience spans LLMs, Agentic AI, Computer Vision, and Document Intelligence, with a focus on developing scalable AI solutions that automate complex workflows and create measurable impact in industrial and enterprise environments.
