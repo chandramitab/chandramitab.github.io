@@ -1,97 +1,130 @@
 ## About Me
 
-I build intelligent systems that bridge AI research and real-world business applications. With a background in Cognitive Systems and Software Engineering, my experience spans LLMs, Agentic AI, Computer Vision, and Document Intelligence, with a focus on developing scalable AI solutions that automate complex workflows and create measurable impact in industrial and enterprise environments.
+I build AI systems that connect research ideas with practical software applications. My background combines Cognitive Systems, enterprise software engineering, and applied AI work across LLMs, agentic workflows, computer vision, document intelligence, and human-centered evaluation.
 
-My main interests include:
+I am especially interested in building reliable AI systems that can retrieve knowledge, reason over structured and unstructured data, interpret visual information, and support real-world decision-making.
 
-- Generative AI
-- Large Language Models (LLMs)
-- Multimodal AI
-- Computer Vision
-- Human-AI Interaction
-- Industrial AI systems
+## Focus Areas
+
+- Agentic AI and LLM-powered workflows
+- Retrieval-Augmented Generation (RAG) and knowledge systems
+- Computer vision and document intelligence
+- Multimodal AI and generative model evaluation
+- Explainable AI and Human-AI Interaction
+- Applied machine learning for practical forecasting and analysis
 
 ---
 
 ## Technical Skills
 
-### Programming & Machine Learning
+### AI, Machine Learning, and Data
 - Python
 - PyTorch
-- Hugging Face Transformers
 - scikit-learn
+- pandas
+- NumPy
+- Hugging Face Transformers
 - SpaCy
 
-### Generative AI & LLM Systems
+### LLMs, Agents, and Retrieval
 - LangChain
 - LangGraph
+- MCP / FastMCP
 - Retrieval-Augmented Generation (RAG)
-- Agentic AI Workflows
-- Prompt Engineering
+- Prompt engineering
+- Structured outputs and evaluation workflows
 
-### Computer Vision
+### Computer Vision and Multimodal AI
 - OpenCV
-- YOLO
+- YOLO / YOLOX
+- Segment Anything (SAM)
+- PaddleOCR
 - CLIP
 - Stable Diffusion
+- LIME
 - scikit-image
 
-### Cloud, MLOps & Deployment
-- Azure Databricks
+### Cloud, MLOps, and Engineering
+- Azure
+- Databricks
 - Azure AI Search
 - Azure Blob Storage
 - Docker
 - GitHub CI/CD
 - Bitbucket
-- Chainlit
-- Gradio
+- Jira
 
-### Web Development
+### Software Development
 - JavaScript
 - TypeScript
 - Angular
+- REST APIs
+- JSON
+- Agile development
 
 ---
 
 ## Experience
 
-### Data Science Intern  
+### Data and AI Engineer Intern
 **Liebherr Digital Center, Ulm, Germany**  
-*July 2025 – Present*
+*July 2025 - Present*
 
-- Engineered agentic LLM pipelines for efficient information retrieval across internal knowledge repositories utilizing LangChain, LangGraph, and Databricks. 
-- Innovatively developed document intelligence workflows using advanced computer vision tools such as YOLO and SAM to extract structured data from complex engineering drawings. 
-- Designed and implemented a vision-based safety monitoring system tailored for construction site scenarios, employing PyTorch for optimal performance.
-- Contributed to continuous integration/continuous deployment (CI/CD) processes and agile development workflows through effective use of GitHub and Jira. 
+- Built agentic LLM workflows for enterprise knowledge retrieval and tool-based information access using LangChain, LangGraph, Databricks, and related GenAI infrastructure.
+- Developed document-intelligence and computer-vision pipelines for extracting structured information from technical drawings and industrial documents.
+- Evaluated OCR, preprocessing, chunking, embedding, and retrieval strategies to improve source-grounded answers and RAG behavior.
+- Worked on vision-based safety and perception use cases using PyTorch, YOLO/YOLOX, SAM, and related computer-vision tooling.
+- Contributed within agile engineering workflows using GitHub, Jira, CI/CD practices, and collaborative software delivery.
 
----
-
-### Software Engineer 
+### Software Engineer
 **PricewaterhouseCoopers (PwC), Kolkata, India**  
-*July 2019 – August 2022*
+*July 2019 - August 2022*
 
-- Developed workflow management features to create, assign, track, and manage work requests across distributed delivery teams.
-- Built a financial reconciliation module, supporting automated matching, manual exception handling, secure access, and reporting.
-- Developed a financial journal application capturing workflows for structured data entry, validation, approvals, and SAP IA integration.
+- Developed enterprise workflow-management features for creating, assigning, tracking, and managing work requests across distributed teams.
+- Built financial reconciliation and journal applications with validation, approval workflows, reporting, secure access, and SAP integration.
+- Delivered production web applications using Angular, TypeScript, JavaScript, testing, debugging, and agile release practices.
 
 ---
 
-## Research & Projects
+## Selected Projects
 
-### Master's Thesis at Visual Computing Group, Ulm University
-- Engineered a comprehensive benchmarking framework to evaluate state-of-the-art text-to-3D generative models, enhancing the understanding of model effectiveness. 
-- Analyzed and identified performance trade-offs across various model architectures in aspects such as semantic alignment, output quality, and structural plausibility, contributing valuable insights to the field. 
+### Agentic AI and Knowledge Workflows
 
-[View GitHub Repository](https://github.com/chandramitab/attribute-t23d-bench)
+#### [Controlled Email-to-ERP Agent Workflow](https://github.com/chandramitab/erp-email-workflow-automation)
+**Stack:** Python, Pydantic, OpenAI API, structured extraction, deterministic guardrails
 
-### Generative AI Project
-Investigated the effectiveness of human feedback in identifying artifacts in AI-generated human portraits.
+Built an auditable agentic workflow that extracts order data from emails and attachments, validates it against ERP-style business rules, automates low-risk cases, and routes exceptions for human review.
 
-### Explainable AI Project
-Analyzed the impact of image segmentation techniques on the runtime and quality of local explanation methods used to interpret CNN predictions.
+### Multimodal AI and Generative Model Evaluation
 
-### Research Assistant at Dept. of Applied Cognitive Psychology, Ulm University
-Analyzed material perception using visual and haptic cues of object properties.
+#### [Attribute T23D Bench](https://github.com/chandramitab/attribute-t23d-bench)
+**Stack:** Python, text-to-3D evaluation, multimodal metrics, prompt generation
+
+Master's thesis project benchmarking text-to-3D generative models with attribute-specific prompts and evaluation metrics across semantic alignment, visual quality, and structural plausibility.
+
+### Explainable and Human-Centered AI
+
+#### [XAI Segmentation Benchmark](https://github.com/chandramitab/xai-segmentation-benchmark)
+**Stack:** Python, OpenCV, YOLO, SAM, LIME, PyTorch
+
+Evaluated how different image-segmentation methods affect the runtime and quality of LIME explanations for deep image classifiers.
+
+#### [Attention Normalized](https://github.com/chandramitab/attention_normalized)
+**Stack:** Python, computational modeling, attention modeling
+
+Implemented the Reynolds-Heeger attention model and reproduced contrast- and response-gain effects from visual attention research.
+
+### Applied Machine Learning
+
+#### [Munich Subway Passenger Forecasting](https://github.com/chandramitab/munich-subway-passenger-forecasting)
+**Stack:** Machine learning, time-series forecasting, HTML reporting
+
+Built a machine-learning pipeline for forecasting hourly passenger demand across Munich subway stations seven days ahead.
+
+### Portfolio Source
+
+#### [chandramitab.github.io](https://github.com/chandramitab/chandramitab.github.io)
+Source repository for this GitHub Pages portfolio.
 
 ---
 
@@ -99,11 +132,11 @@ Analyzed material perception using visual and haptic cues of object properties.
 
 **M.Sc. Cognitive Systems**  
 Ulm University, Germany  
-Grade: 1.5 • 2022 – 2025
+Grade: 1.5 | 2022 - 2025
 
 **B.Tech Computer Science**  
 Institute of Engineering and Management, Kolkata, India  
-Grade: 8.7/10 • 2015 – 2019
+Grade: 8.7/10 | 2015 - 2019
 
 ---
 
@@ -119,16 +152,17 @@ Grade: 8.7/10 • 2015 – 2019
 ## Interests
 
 ### Professional
-Generative AI • Multimodal AI • Computer Vision • Human-AI Interaction • Autonomous Systems
+Generative AI, Multimodal AI, Computer Vision, Human-AI Interaction, Autonomous Systems
 
 ### Personal
-Painting • Badminton • Dancing • Cooking • Yoga
+Painting, Badminton, Dancing, Cooking, Yoga
 
 ---
 
 ## Contact
 
-Open to discussions on AI research and emerging AI technologies, and interested in AI Engineering job opportunities. Feel free to connect.
+Open to discussions about AI engineering, applied machine learning, research-oriented projects, and emerging AI technologies.
 
-📧 chandramita.bhattacharya@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/chandramita-bhattacharya
+Email: chandramita.bhattacharya@gmail.com  
+LinkedIn: [chandramita-bhattacharya](https://www.linkedin.com/in/chandramita-bhattacharya)  
+GitHub: [chandramitab](https://github.com/chandramitab)
