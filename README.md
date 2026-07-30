@@ -121,18 +121,13 @@ Implemented the Reynolds-Heeger attention model and reproduced contrast- and res
 
 Built a machine-learning pipeline for forecasting hourly passenger demand across Munich subway stations seven days ahead.
 
-### Portfolio Source
-
-#### [chandramitab.github.io](https://github.com/chandramitab/chandramitab.github.io)
-Source repository for this GitHub Pages portfolio.
-
 ---
 
 ## Education
 
 **M.Sc. Cognitive Systems**  
 Ulm University, Germany  
-Grade: 1.5 | 2022 - 2025
+Grade: 1.5 | 2022 - 2026
 
 **B.Tech Computer Science**  
 Institute of Engineering and Management, Kolkata, India  
@@ -143,9 +138,9 @@ Grade: 8.7/10 | 2015 - 2019
 ## Languages
 
 - English (C1)
-- German (A2)
+- German (B1)
 - Bengali (Native)
-- Hindi (Native)
+- Hindi (Fluent)
 
 ---
 
