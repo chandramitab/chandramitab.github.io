@@ -14,9 +14,7 @@ title: Projects
 ### Multi-Agent Research Assistant
 A collaborative agent system that retrieves, synthesizes, and reasons over academic papers and technical documentation using LangGraph and RAG.
 
-**Technologies:** LangChain, LangGraph, Vector Databases, FastAPI  
-**Impact:** Automated literature review workflows with 70% time reduction  
-**[View on GitHub](#)** | **[Live Demo](#)**
+**Technologies:** LangChain, LangGraph, Vector Databases, FastAPI 
 
 ---
 
@@ -24,8 +22,7 @@ A collaborative agent system that retrieves, synthesizes, and reasons over acade
 End-to-end system for extracting, structuring, and analyzing information from complex documents including forms, contracts, and technical manuals.
 
 **Technologies:** PaddleOCR, Azure Document Intelligence, spaCy, PyTorch  
-**Impact:** Reduced manual document processing time by 85%  
-**[View on GitHub](#)**
+**Impact:** Reduced manual document processing time by 85% 
 
 ---
 
@@ -36,8 +33,6 @@ Multimodal application combining CLIP and LLMs to answer natural language questi
 
 **Technologies:** CLIP, GPT-4V, PyTorch, Gradio  
 **Features:** Real-time inference, explainable outputs using LIME  
-**[View on GitHub](#)** | **[Live Demo](#)**
-
 ---
 
 ### Object Detection for Industrial Quality Control
@@ -45,8 +40,6 @@ Custom YOLO-based detection system for identifying defects in manufacturing proc
 
 **Technologies:** YOLOv8, OpenCV, PyTorch  
 **Results:** 92% detection accuracy, deployed in production  
-**[View on GitHub](#)**
-
 ---
 
 ## Data Science & Analytics
@@ -56,7 +49,7 @@ Forecasting system for demand prediction with automated feature engineering and 
 
 **Technologies:** scikit-learn, Prophet, pandas, Azure Databricks  
 **Impact:** Improved forecast accuracy by 25%  
-**[View on GitHub](#)**
+**[View on GitHub](https://github.com/chandramitab/munich-subway-passenger-forecasting)**
 
 ---
 
@@ -65,27 +58,27 @@ Interactive dashboard for model interpretation and decision explanation.
 
 **Technologies:** SHAP, LIME, Plotly, Streamlit  
 **Use Case:** Healthcare risk prediction with regulatory compliance  
-**[View on GitHub](#)** | **[Live Demo](#)**
+**[View on GitHub](https://github.com/chandramitab/xai-segmentation-benchmark)**
 
 ---
 
 ## Research & Evaluation
 
-### Human-AI Interaction Study
-Research on user trust and adoption patterns in AI-assisted decision making.
+### Text-to-3D Generation Benchmark
+Benchmarking text-to-3D generation with attribute-specific prompts and evaluation metrics.
 
-**Methods:** User studies, A/B testing, qualitative analysis  
-**Publication:** Findings presented at CHI workshop  
-**[Read Paper](#)**
+**Methods:** Human evaluation, GPTEval3D, TIFA3D metrics  
+**Research:** Master Thesis project  
+**[View on GitHub](https://github.com/chandramitab/attribute-t23d-bench)**
 
 ---
 
-### LLM Evaluation Framework
-Systematic framework for evaluating LLM outputs across factuality, consistency, and safety dimensions.
+### Agentic Workflow for ERP Integration
+Controlled agentic workflow that extracts order data from emails and attachments, validates against ERP rules, and routes exceptions for human review.
 
-**Technologies:** Python, custom metrics, statistical analysis  
-**Application:** Production model monitoring  
-**[View on GitHub](#)**
+**Technologies:** LangChain, Python, Email parsing, Automation  
+**Application:** Enterprise automation  
+**[View on GitHub](https://github.com/chandramitab/erp-email-workflow-automation)**
 
 ---
 
