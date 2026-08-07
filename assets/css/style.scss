@@ -81,6 +81,17 @@ header a {
   color: var(--primary);
 }
 
+/* Hide duplicate header in main content area */
+section > h1:first-child,
+section > h2:first-child {
+  display: none;
+}
+
+/* Ensure only sidebar shows name/title */
+.wrapper section > header {
+  display: none;
+}
+
 
 /* ========================================
    Main content
