@@ -98,7 +98,52 @@ section h3 {
 
 hr {
   border: 0;
-  border-top: 1px solid var(--border);
+  height: 1px;
+  background: var(--border);
+  margin: 2em 0;
+}
+
+
+/* ========================================
+   Buttons
+   ======================================== */
+
+.primary-button,
+.secondary-button {
+  display: inline-block;
+  padding: 12px 28px;
+  margin: 8px;
+  font-weight: 500;
+  font-size: 0.95em;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border: 2px solid transparent;
+}
+
+.primary-button {
+  background-color: var(--primary);
+  color: white;
+}
+
+.primary-button:hover {
+  background-color: var(--primary-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 166, 0.2);
+  color: white;
+}
+
+.secondary-button {
+  background-color: transparent;
+  color: var(--primary);
+  border: 2px solid var(--primary);
+}
+
+.secondary-button:hover {
+  background-color: var(--primary);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 166, 0.15);
 }
 
 
